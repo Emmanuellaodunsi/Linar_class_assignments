@@ -1,0 +1,2 @@
+print("My name is EMMANUELLA ODUNSI")
+print("i am a girl,learning python programming, i learn python programming because it is one of the best and easy programming language to learn, and also to learn how to code and also improve my learning skills and creativity") 

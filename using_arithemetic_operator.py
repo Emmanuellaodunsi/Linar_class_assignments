@@ -1,0 +1,5 @@
+print(100//6)
+print(300%10)
+print(7//2)
+print(6//1.5)
+print(6%1.25)
