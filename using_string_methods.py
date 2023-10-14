@@ -1,9 +1,12 @@
+"""Use cases in string"""
 #finding the index of a specific character in a string
+"""using find()method"""
 sentence="Python is awesome"
 index=sentence.find("s")
 print("The index of 's' is:",index)
 
 #entering password for login
+"""using isalnum()method"""
 password=input("Enter your password...(containing alphabeth and numbers)")
 if password.isalnum():
     print("valid and secured password")
@@ -18,6 +21,7 @@ else:
 
 
 #Checking if the word contains only alphabetic characters
+"""using isalpha()methods"""
 User_name=input("Emter your user name....using just alphabetic letters:\n")
 if User_name.isalpha():
     print("The given username contains only alphabetic characters.")
