@@ -1,5 +1,14 @@
 #Buildingg a python structure ....which is known to have 4 rooms and a toilet
 #start
+'''problem statement:
+being the civil engineer of a civil construction company,
+you are given a contract to construct a python structure,
+which is known for having 4 rooms and a toilet,
+with the customer specifying the dimensions of the rooms,
+find the total number of blocks and total cost of the building with a constant height of 12ft using
+    either 600naira block with 
+    dimensions 6inch by 9inch by 15inch or 1000naira blocks with dimensions of 10inch by 12inch by 20inch.'''
+
 
 Name=input("pls...Enter your name:")
 print("Hello!",Name, "Welcome to Emmanuella Civil Contruction Company")
